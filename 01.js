@@ -2,6 +2,7 @@
 声明变量let和const
 */
 //var flag = 123;
+//测试commit
 //console.log(flag);
 
 //let flag = 123
